@@ -10,7 +10,7 @@ and track key conversion KPIs over time.
 
 ## 🎯 Business Problem
 The sales team had no visibility into their lead funnel.
-They couldn't tell what was working or not, making it hard to improve their process.
+They couldn't tell what was working or not, making it hard to improve their process. 
 
 ## 📊 Data Sources
 Two tables from the Greenweez dataset:
